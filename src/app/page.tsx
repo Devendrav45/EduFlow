@@ -900,7 +900,7 @@ export default function HomePage() {
   {/* Copyright */}
   <div className="mx-auto mt-10 flex max-w-7xl flex-col gap-3 border-t border-slate-800 pt-6 text-xs text-slate-500 sm:flex-row sm:items-center sm:justify-between">
     <p>
-      © {new Date().getFullYear()} EduFlow ERP. All rights reserved.
+      © 2026 EduFlow ERP. All rights reserved.
     </p>
     <p className="text-slate-400">
       Designed for smarter institutional management.
